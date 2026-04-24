@@ -1,0 +1,18 @@
+# 核心 Web 框架
+streamlit==1.32.0
+
+# 大模型与多模态调用
+openai==1.14.2
+dashscope==1.14.0
+
+# 核心 RAG 组件与向量库
+langchain==0.1.13
+langchain-community==0.0.29
+chromadb==0.4.24
+
+# 文档解析与切块
+pymupdf4llm==0.0.2
+
+# 双路检索与重排算法
+rank_bm25==0.2.2
+FlagEmbedding==1.2.5
